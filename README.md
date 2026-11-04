@@ -20,6 +20,15 @@
 
 ---
 
+## 🚧 Projetos em andamento
+
+| Projeto | Descrição | Tecnologias | Status |
+|---------|-----------|-------------|--------|
+| open-finance-tracker | Aplicação de consolidação financeira que consome APIs REST (Open Finance) para reunir saldos, transações e divisão de despesas, com foco em modularidade e escalabilidade. | Python, APIs REST | 🔨 Em desenvolvimento ativo (foco atual) |
+| php-ecommerce-core| Core/engine completo de e-commerce com gestão de produtos, variações, estoque, carrinho e painel administrativo. | PHP, MySQL | ✅ Quase finalizado, em refatoração |
+
+---
+
 ## ⚡ Tecnologias e ferramentas
 
 <div align="center">
@@ -28,19 +37,13 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
 
-### Ferramentas e bancos de dados
-
-<img src="https://skillicons.dev/icons?i=github,git,mysql,vscode,mariadb" />
-
 </div>
 
----
-
-## 🔥 Minha atividade
-
 <div align="center">
+  
+### Ferramentas
 
-<img src="https://streak-stats.demolab.com?user=MANOEL04&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=github,git,mysql,vscode,docker" />
 
 </div>
 
@@ -58,7 +61,12 @@
 
 ## 📫 Contato
 
-💻 Linkedin: [Eduardo Henrique](https://www.linkedin.com/in/eduardo-henrique-413b7225a)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henrique-413b7225a)
+[![E-mail](https://img.shields.io/badge/eduardo.henrique.code@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.henrique.code@gmail.com)
+
+</div>
 
 <div align="center">
 
